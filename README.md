@@ -2,7 +2,7 @@
 tags: cli, kids
 languages: cli
 type: resources
-level: beginner
+level: 1
 ---
 
 ## Resources:
