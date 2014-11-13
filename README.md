@@ -5,7 +5,7 @@ type: resources
 level: 1
 ---
 
-## Resources:
+## Resources
 
 Here are some great resources to learn more about terminal commands, which include some additional advanced commands to challenge yourself. These will also be great to lean on in case you ever forget what exactly `pwd` does... 
 
