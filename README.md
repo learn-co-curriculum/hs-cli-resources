@@ -1,9 +1,4 @@
----
-tags: cli, kids
-languages: cli
-type: resources
-level: 1
----
+
 
 ## Resources
 
