@@ -8,4 +8,4 @@ Here are some great resources to learn more about terminal commands, which inclu
 2 [Flatiron School Explains](https://gist.github.com/aviflombaum/9d6f7448119bae3a24ee)
 3 [Life Hacker Tips](http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything)
 
-<a href='https://learn.co/lessons/hs-cli-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-cli-resources' title='Resources'>Resources</a> on Learn.co and start learning to code for free.</p>
